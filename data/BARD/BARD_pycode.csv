@@ -1,0 +1,250 @@
+,prompts,BARD
+0,Write a Python code to find the factorial of a given number,def factorial(n):
+1,Write a Python code to reverse a string,def reverse_string(string):
+2,Write a Python code to calculate the area of a circle,def calculate_area_of_circle(radius):
+3,Write a Python code to find the maximum of two numbers,"def find_maximum(number1, number2):"
+4,Write a Python code to check if a number is even or odd,def is_even(number):
+5,Write a Python code to calculate the sum of digits of a number,def sum_of_digits(number):
+6,Write a Python code to find the length of a list,def find_length_of_list(list_of_numbers):
+7,Write a Python code to concatenate two lists,"def concatenate_lists(list1, list2):"
+8,Write a Python code to remove duplicates from a list,def remove_duplicates(list_of_numbers):
+9,Write a Python code to check if a list is sorted,def is_sorted(list_of_numbers):
+10,Write a Python code to find the square root of a number,def square_root(number):
+11,Write a Python code to calculate the GCD of two numbers,"def gcd(a, b):"
+12,Write a Python code to convert a temperature from Celsius to Fahrenheit,def celsius_to_fahrenheit(celsius):
+13,Write a Python code to find the largest element in an array,def find_largest_element(array):
+14,Write a Python code to count the number of vowels in a string,def count_vowels(string):
+15,Write a Python code to check if a number is a perfect square,def is_perfect_square(number):
+16,Write a Python code to find the smallest element in an array,def find_smallest_element(array):
+17,Write a Python code to calculate the area of a rectangle,"def calculate_area_of_rectangle(width, height):"
+18,Write a Python code to check if a number is a palindrome,def is_palindrome(number):
+19,Write a Python code to find the common elements between two arrays,"def find_common_elements(array1, array2):"
+20,Write a Python code to calculate the power of a number,"def power(base, exponent):"
+21,Write a Python code to swap two numbers without using a temporary variable,"def swap_numbers(number1, number2):"
+22,Write a Python code to reverse a list,def reverse_list(list_to_reverse):
+23,Write a Python code to find the prime factors of a number,def find_prime_factors(number):
+24,Write a Python code to find the sum of all even numbers in a list,def sum_of_even_numbers(list_of_numbers):
+25,Write a Python code to find the sum of all odd numbers in a list,def sum_of_odd_numbers(list_of_numbers):
+26,Write a Python code to check if a given string is a valid email address,
+27,Write a Python code to check if a given number is a Armstrong number,def is_armstrong_number(number):
+28,Write a Python code to find the LCM of two numbers,"def lcm(x, y):"
+29,Write a Python code to calculate the area of a triangle,"def area_of_triangle(base, height):"
+30,Write a Python code to check if a list is empty,def is_list_empty(list_to_check):
+31,Write a Python code to sort a list of numbers in ascending order,def sort_numbers(numbers):
+32,Write a Python code to sort a list of strings in alphabetical order,def sort_strings(list_of_strings):
+33,Write a Python code to find the middle element in a list,def find_middle_element(numbers):
+34,Write a Python code to calculate the average of a list of numbers,def average(numbers):
+35,Write a Python code to check if a number is a perfect number,def is_perfect_number(number):
+36,Write a Python code to find the ASCII value of a character,def ascii_value(character):
+37,Write a Python code to remove all whitespace from a string,def remove_whitespace(string):
+38,Write a Python code to check if a given year is a leap year,def is_leap_year(year):
+39,Write a Python code to count the number of words in a string,def count_words(string):
+40,Write a Python code to check if a given number is a prime number,def is_prime(number):
+41,Write a Python code to calculate the circumference of a circle,def calculate_circumference(radius):
+42,Write a Python code to find the index of an element in a list,"def find_index(list, element):"
+43,Write a Python code to calculate the area of a square,def calculate_area_of_square(side_length):
+44,Write a Python code to reverse the order of words in a string,def reverse_words(string):
+45,Write a Python code to calculate the volume of a sphere,def volume_of_sphere(radius):
+46,Write a Python code to find the sum of all elements in a list,def volume_of_sphere(radius):
+47,"Write a Python code to check if a number is positive, negative, or zero",def check_number(number):
+48,Write a Python code to find the difference between two dates,"def difference_between_dates(date1, date2):"
+49,Write a Python code to find the first non-repeated character in a string,def first_non_repeated_character(string):
+50,Write a Python code to generate a random number within a given range,"def generate_random_number(min_value, max_value):"
+51,Write a Python code to check if a given string is an anagram,"def is_anagram(string1, string2):"
+52,Write a Python code to find the mode of a list of numbers,def mode(list_of_numbers):
+53,Write a Python code to reverse the order of elements in an array,def reverse_array(array):
+54,Write a Python code to check if a given string is a palindrome ignoring spaces,def is_palindrome(string):
+55,Write a Python code to calculate the sum of all prime numbers up to a given limit,def sum_of_primes(limit):
+56,Write a Python code to find the second largest element in an array,def find_second_largest_element(array):
+57,Write a Python code to check if a given number is a perfect square or a perfect cube,def is_perfect_square(number):
+58,Write a Python code to check if a given number is a Fibonacci number,def is_fibonacci(number):
+59,Write a Python code to find the maximum product of two numbers in an array,def max_product_of_two_numbers(array):
+60,Write a Python code to find the length of the longest increasing subarray in an array,def max_product_of_two_numbers(array):
+61,Write a Python code to find the number of words that start with a vowel in a string,def count_words_starting_with_vowel(string):
+62,Write a Python code to find the difference between two sets,"def difference_of_sets(set1, set2):"
+63,Write a Python code to find the common elements between two sets,"def common_elements(set1, set2):"
+64,Write a Python code to calculate the area of a trapezoid,"def calculate_area_of_trapezoid(base1, base2, height):"
+65,Write a Python code to find the sum of digits in a given number using recursion,def sum_of_digits(number):
+66,Write a Python code to find the number of occurrences of a character in a string,"def count_occurrences(string, character):"
+67,Write a Python code to check if a given number is a perfect number or an abundant number,def is_perfect_number(number):
+68,Write a Python code to calculate the sum of digits in a given number using a loop,def sum_digits(n):
+69,Write a Python code to count the number of uppercase and lowercase letters in a string,def count_letters(string):
+70,Write a Python code to check if a given string is a valid palindrome considering only alphanumeric characters,def is_palindrome(string):
+71,Write a Python code to calculate the area of a pentagon,def area_of_pentagon(s):
+72,Write a Python code to find the length of the longest common subsequence of two strings,"def lcs(x, y):"
+73,Write a Python code to check if a given number is a strong number,def is_strong_number(number):
+74,Write a Python code to find the ASCII value of each character in a string,def ascii_value(string):
+75,Write a Python code to check if a given number is a Harshad number,def is_harshad(number):
+76,Write a Python code to find the union of two sets,"def union(set1, set2):"
+77,Write a Python code to calculate the area of a parallelogram,"def area_of_parallelogram(base, height):"
+78,Write a Python code to find the largest prime factor of a given number,def find_largest_prime_factor(number):
+79,Write a Python code to check if a given number is an abundant number,def is_abundant(number):
+80,Write a Python code to calculate the area of a cube,def area_of_cube(side):
+81,Write a Python code to check if a given string is a valid palindrome ignoring cases,def is_palindrome(string):
+82,Write a Python code to find the number of vowels and consonants in a string,def count_vowels_and_consonants(string):
+83,Write a Python code to check if a given number is a narcissistic number,def is_narcissistic(number):
+84,Write a Python code to calculate the area of a rhombus,"def area_of_rhombus(d1, d2):"
+85,Write a Python code to find the length of the longest common prefix of two strings,"def longest_common_prefix(string1, string2):"
+86,Write a Python code to check if a given number is a Smith number,def is_smith_number(number):
+87,Write a Python code to calculate the area of a regular hexagon,def area_of_hexagon(side_length):
+88,Write a Python code to find the number of trailing zeros in the factorial of a given number,def trailing_zeros(n):
+89,Write a Python code to check if a given string is a pangram,def is_pangram(string):
+90,Write a Python code to find the sum of all divisors of a given number,def sum_of_divisors(number):
+91,Write a Python code to check if a given number is a perfect power,def is_perfect_power(number):
+92,Write a Python code to calculate the area of a regular octagon,def area_of_octagon(side):
+93,Write a Python code to find the length of the longest common suffix of two strings,"def longest_common_suffix(string1, string2):"
+94,Write a Python code to check if a given string is a valid palindrome considering only letters,def is_palindrome(string):
+95,Write a Python code to count the number of occurrences of a word in a given text,"def count_word_occurrences(text, word):"
+96,Write a Python code to calculate the factorial of a given number using recursion,def factorial(n):
+97,Write a Python code to find the roots of a quadratic equation,"def find_roots(a, b, c):"
+98,Write a Python code to check if a given list is sorted in ascending order,def is_sorted(list_to_check):
+99,Write a Python code to find the length of the shortest path in a matrix from top left to bottom right,def find_shortest_path_length(matrix):
+100,Write a Python code to find the largest sum of any two adjacent elements in an array,def max_adjacent_sum(array):
+101,Write a Python code to check if a given number is a palindrome in binary representation,def is_binary_palindrome(number):
+102,Write a Python code to find the first non-repeated character in a string,def first_non_repeated_character(string):
+103,Write a Python code to check if a given number is a prime number using the Sieve of Eratosthenes algorithm,def is_prime(number):
+104,Write a Python code to find the area of a circle,def find_area_of_circle(radius):
+105,Write a Python code to check if a given matrix is symmetric,def is_symmetric(matrix):
+106,Write a Python code to find the GCD (Greatest Common Divisor) of two numbers using the Euclidean algorithm,"def gcd(a, b):"
+107,Write a Python code to check if a given number is an Armstrong number,def is_armstrong(number):
+108,Write a Python code to find the smallest positive missing number in an unsorted array,def find_smallest_positive_missing_number(array):
+109,Write a Python code to check if a given string is a valid email address,def is_valid_email(email_address):
+110,Write a Python code to find the sum of digits of a given number until it becomes a single-digit number,def sum_of_digits(number):
+111,Write a Python code to find the median of a list of numbers,def median(numbers):
+112,Write a Python code to check if a given matrix is diagonal,def is_diagonal(matrix):
+113,Write a Python code to find the LCM (Least Common Multiple) of two numbers,"def lcm(num1, num2):"
+114,Write a Python code to check if a given string is a valid URL,def is_valid_url(url):
+115,Write a Python code to find the prime factors of a given number,def prime_factors(number):
+116,Write a Python code to check if a given matrix is a magic square,def is_magic_square(matrix):
+117,"Write a Python code to find the number of ways to climb n stairs, taking 1 or 2 steps at a time",def climb_stairs(n):
+118,Write a Python code to check if a given string is a palindrome permutation,def is_palindrome_permutation(string):
+119,Write a Python code to find the maximum sum of a subarray in an array with positive and negative numbers,def max_subarray_sum(array):
+120,Write a Python code to check if a given matrix is sparse,def is_sparse(matrix):
+121,Write a Python code to find the area of a triangle given its three sides,"def heron_formula(a, b, c):"
+122,Write a Python code to check if a given number is a narcissistic prime,def is_narcissistic_prime(number):
+123,Write a Python code to find the kth smallest element in an unsorted array,"def kth_smallest_element(array, k):"
+124,Write a Python code to check if a given string is an anagram of a palindrome,def is_palindrome_anagram(string):
+125,Write a Python code to find the number of digits in a given number,def number_of_digits(number):
+126,Write a Python code to check if a given matrix is a diagonal matrix,def is_diagonal_matrix(matrix):
+127,Write a Python code to find the length of the longest palindrome substring in a given string,def longest_palindrome_substring(string):
+128,Write a Python code to check if a given number is a square-free number,def is_square_free(number):
+129,Write a Python code to find the volume of a cylinder given its radius and height,"def volume_of_cylinder(radius, height):"
+130,Write a Python code to check if a given string is a pangrammatic palindrome,def is_pangrammatic_palindrome(string):
+131,Write a Python code to find the sum of all prime numbers between two given numbers,"def sum_of_primes(start, end):"
+132,Write a Python code to check if a given matrix is a scalar matrix,def is_scalar_matrix(matrix):
+133,Write a Python code to find the number of occurrences of a word in a list of sentences,"def count_word_occurrences(word, sentences):"
+134,Write a Python code to check if a given number is a Fermat prime,def is_fermat_prime(number):
+135,Write a Python code to find the volume of a sphere given its radius,def volume_of_sphere(radius):
+136,Write a Python code to check if a given string is a valid palindrome permutation,def is_valid_palindrome_permutation(string):
+137,Write a Python code to find the sum of all odd numbers in an array,def sum_of_odd_numbers(array):
+138,Write a Python code to reverse a linked list,"def __init__(self, data):"
+139,Write a Python code to find the longest common subsequence of two strings,"def lcs(x, y):"
+140,Write a Python code to sort a list of integers using the bubble sort algorithm,def bubble_sort(list_to_sort):
+141,Write a Python code to find the shortest path between two nodes in a weighted graph using Dijkstra's algorithm,"def __init__(self, name, weight):"
+142,Write a Python code to find the maximum sum path in a binary tree from root to leaf,"def __init__(self, value):"
+143,Write a Python code to implement a stack using an array,"def __init__(self, capacity):"
+144,Write a Python code to find the kth largest element in an unsorted array using a min-heap,"def find_kth_largest(array, k):"
+145,Write a Python code to implement a queue using two stacks,def __init__(self):
+146,Write a Python code to find the maximum sum subarray with a given sum in an array,"def max_sum_subarray_with_given_sum(array, sum):"
+147,Write a Python code to find the common elements between two arrays,"def find_common_elements(array1, array2):"
+148,Write a Python code to find the longest increasing subarray in an array,def longest_increasing_subarray(array):
+149,Write a Python code to implement a binary search algorithm,"def binary_search(array, target):"
+150,Write a Python code to find the number of islands in a given 2D grid,def find_islands(grid):
+151,Write a Python code to find the longest palindrome in a given string,def longest_palindrome(string):
+152,Write a Python code to implement a hash table with collision resolution using chaining,"def __init__(self, key, value):"
+153,Write a Python code to check if a given tree is a binary search tree,"def __init__(self, value):"
+154,Write a Python code to implement a priority queue using a binary heap,def __init__(self):
+155,Write a Python code to find the maximum sum of non-adjacent elements in an array,def max_sum_non_adjacent(array):
+156,Write a Python code to find the number of connected components in an undirected graph,def find_connected_components(graph):
+157,Write a Python code to implement a trie data structure,def __init__(self):
+158,Write a Python code to find the shortest path between two nodes in an unweighted graph using BFS,"def bfs(graph, start, end):"
+159,Write a Python code to find the longest common prefix of an array of strings,def longest_common_prefix(strings):
+160,Write a Python code to implement a circular linked list,"def __init__(self, data):"
+161,Write a Python code to find the longest common substring of two strings,"def longest_common_substring(str1, str2):"
+162,Write a Python code to implement a binary search tree,"def __init__(self, data):"
+163,"Write a Python code to find the minimum spanning tree of a connected, undirected graph using Kruskal's algorithm","def __init__(self, u, v, w):"
+164,Write a Python code to find the maximum sum of a circular subarray in an array,def max_circular_sum(array):
+165,Write a Python code to implement an AVL tree,"def __init__(self, data):"
+166,"Write a Python code to find the shortest path between two nodes in a directed, weighted graph using Bellman-Ford algorithm",defaultdict
+167,Write a Python code to implement a radix sort algorithm,"def radix_sort(array, max_digit):"
+168,Write a Python code to find the longest palindrome subsequence in a given string,def longest_palindrome_subsequence(string):
+169,Write a Python code to implement a red-black tree,
+170,Write a Python code to find the longest increasing subsequence in an array,def longest_increasing_subsequence(array):
+171,Write a Python code to implement a depth-first search (DFS) algorithm for a graph,defaultdict
+172,Write a Python code to find the maximum product subarray in an array,def max_product_subarray(array):
+173,Write a Python code to implement a disjoint-set data structure using union-find algorithm,"def __init__(self, n):"
+174,Write a Python code to find the longest common subarray of two arrays,"def longest_common_subarray(arr1, arr2):"
+175,Write a Python code to implement a Floyd-Warshall algorithm for finding all pairs shortest paths in a weighted graph,def floyd_warshall(graph):
+176,Write a Python code to find the kth smallest element in a binary search tree,"def __init__(self, val):"
+177,Write a Python code to implement a breadth-first search (BFS) algorithm for a graph,"def bfs(graph, start):"
+178,Write a Python code to implement a circular queue using an array,"def __init__(self, capacity):"
+179,Write a Python code to find the largest rectangle in a histogram,def largest_rectangle(histogram):
+180,Write a Python code to implement a graph using an adjacency matrix,def create_graph(n):
+181,Write a Python code to find the first non-repeated character in a string,def first_non_repeated_character(string):
+182,Write a Python code to implement a LRU (Least Recently Used) cache,"def __init__(self, capacity):"
+183,Write a Python code to find the shortest common supersequence of two strings,"def scs(x, y):"
+184,Write a Python code to implement a binary search tree iterator,"def __init__(self, root):"
+185,Write a Python code to find the longest palindromic substring in a given string,def longest_palindrome(string):
+186,Write a Python code to implement a topological sorting algorithm for a directed acyclic graph,def topological_sort(graph):
+187,Write a Python code to find the longest common subsequence of three strings,"def lcs(x, y, z):"
+188,Write a Python code to implement a heap sort algorithm,"def heapify(heap, n, i):"
+189,Write a Python code to find the smallest missing positive integer in an unsorted array,def find_smallest_missing_positive(array):
+190,Write a Python code to implement a disjoint-set data structure using path compression and rank,"def __init__(self, n):"
+191,Write a Python code to find the number of ways to reach the top of a staircase with given step sizes,"def count_ways(n, step_sizes):"
+192,Write a Python code to implement a sliding window maximum algorithm,"def sliding_window_maximum(array, window_size):"
+193,Write a Python code to find the minimum steps to reach the end of an array with jumps,def min_steps(array):
+194,Write a Python code to implement a counting sort algorithm,"def counting_sort(array, max_value):"
+195,Write a Python code to find the longest common subarray with at most k differences,"def longest_common_subarray_with_k_differences(arr1, arr2, k):"
+196,Write a Python code to find the maximum area of a rectangle in a binary matrix,def max_area_of_rectangle_in_binary_matrix(matrix):
+197,Write a Python code to implement a disjoint-set data structure using path splitting and rank,"def __init__(self, n):"
+198,Write a Python code to find the first missing positive integer in an unsorted array,def first_missing_positive(nums):
+199,Write a Python code to implement a topological sorting algorithm for a directed acyclic graph (DAG) using DFS,def topological_sort(graph):
+200,Write a Python code to find the longest common subsequence of two arrays,"def lcs(x, y):"
+201,Write a Python code to implement a quick sort algorithm,"def quick_sort(array, low, high):"
+202,Write a Python code to find the longest increasing subarray with sum less than or equal to a given target,"def longest_increasing_subarray(array, target):"
+203,Write a Python code to implement a depth-first search (DFS) algorithm for a tree,"def dfs(tree, node):"
+204,"Write a Python code to find the shortest path between two nodes in a directed, weighted graph using Dijkstra's algorithm with a heap","def dijkstra(graph, source, destination):"
+205,Write a Python code to implement a trie data structure with support for word search,def __init__(self):
+206,Write a Python code to find the longest common prefix of a set of strings,def longest_common_prefix(strings):
+207,Write a Python code to implement an in-place merge sort algorithm,"def merge_sort(array, low, high):"
+208,Write a Python code to find the maximum sum of a subarray with at most k elements,"def max_sum_subarray_k(array, k):"
+209,Write a Python code to implement a priority queue using a linked list,"def __init__(self, value, priority):"
+210,Write a Python code to find the largest sum subarray with equal number of 0s and 1s,def largest_sum_subarray_with_equal_zeros_and_ones(arr):
+211,Write a Python code to implement a bubble sort algorithm with optimized swapping,def bubble_sort_optimized(array):
+212,Write a Python code to find the longest common subarray with equal number of 0s and 1s,def longest_common_subarray_with_equal_zeros_and_ones(array):
+213,Write a Python code to implement a stack using a linked list,"def __init__(self, value):"
+214,Write a Python code to find the maximum product of any two elements in an array,def max_product_of_two_elements(arr):
+215,Write a Python code to implement a queue using a linked list,"def __init__(self, data):"
+216,Write a Python code to find the longest common subarray with sum divisible by k,"def longest_common_subarray_with_sum_divisible_by_k(arr, n, k):"
+217,Write a Python code to implement a selection sort algorithm with optimized swapping,def optimized_selection_sort(array):
+218,Write a Python code to find the smallest missing positive integer in a sorted array,def find_smallest_missing_positive_integer(array):
+219,Write a Python code to implement a shell sort algorithm,def shell_sort(arr):
+220,Write a Python code to find the longest common subarray with sum equal to kWrite a Python code to implement a hash table with collision resolution using chaining,"def longest_common_subarray_with_sum_equal_to_k(arr, n, k):"
+221,Write a Python code to find the maximum sum subarray with no adjacent elements,def max_sum_subarray_no_adjacent(array):
+222,Write a Python code to implement a priority queue using a binary heap,def __init__(self):
+223,Write a Python code to find the longest common subarray with sum less than or equal to a given target,"def longest_common_subarray_with_sum_less_than_or_equal_to_target(arr, n, target):"
+224,Write a Python code to implement a radix sort algorithm,"def radix_sort(array, max_digit):"
+225,Write a Python code to find the largest sum subarray with at least k elements,"def largest_sum_subarray_with_k_elements(array, k):"
+226,Write a Python code to implement a bucket sort algorithm,def bucket_sort(array):
+227,"Write a Python code to find the longest common subarray with equal number of 0s, 1s, and 2s",def longest_common_subarray(array):
+228,Write a Python code to implement a hash table with collision resolution using open addressing,"def __init__(self, size):"
+229,Write a Python code to find the maximum sum subarray with at least one element,def max_sum_subarray_with_at_least_one_element(array):
+230,Write a Python code to implement a binary search tree (BST) with insertion and deletion operations,"def __init__(self, val):"
+231,Write a Python code to find the longest common subarray with sum greater than or equal to k,"def longest_common_subarray(array, k):"
+232,Write a Python code to implement a heap data structure with support for min and max operations,def __init__(self):
+233,Write a Python code to find the maximum sum subarray with sum less than or equal to a given target,"def max_sum_subarray_with_target(array, target):"
+234,Write a Python code to implement a queue using two stacks,def __init__(self):
+235,Write a Python code to find the longest common subarray with sum not divisible by k,"def longest_common_subarray(array, k):"
+236,Write a Python code to implement a stack using two queues,def __init__(self):
+237,Write a Python code to find the largest sum subarray with sum less than or equal to k,"def largest_sum_subarray_less_than_or_equal_to_k(array, k):"
+238,"Write a Python code to implement a binary search tree (BST) with search, insertion, and deletion operations","def __init__(self, value):"
+239,Write a Python code to find the longest common subarray with sum equal to k,"def longest_common_subarray_with_sum_equal_to_k(array, k):"
+240,Write a Python code to implement a hash table with collision resolution using linear probing,"def __init__(self, size):"
+241,Write a Python code to find the maximum sum subarray with sum greater than or equal to k,"def max_sum_subarray_greater_than_or_equal_to_k(array, k):"
+242,"Write a Python code to implement a circular linked list with insertion, deletion, and traversal operations","def __init__(self, data):"
+243,Write a Python code to find the longest common subarray with at most k differences between elements,"def longest_common_subarray_with_at_most_k_differences(array1, array2, k):"
+244,Write a Python code to implement a queue using two stacks with optimized space complexity,def __init__(self):
+245,Write a Python code to find the maximum sum subarray with sum divisible by k,"def max_sum_subarray_with_sum_divisible_by_k(array, k):"
+246,Write a Python code to implement a merge sort algorithm,def merge_sort(array):
+247,Write a Python code to find the largest product subarray in a given array,def largest_product_subarray(array):
+248,Write a Python code to find the largest sum subarray in a given array,def largest_sum_subarray(array):
